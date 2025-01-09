@@ -1,0 +1,66 @@
+/* General Styles */
+.dashboard {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f6f8;
+    min-height: 100vh;
+}
+
+.MuiTypography-h6, .MuiTypography-body2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Navbar Styles */
+.MuiAppBar-root {
+    background-color: #2E8BC0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.MuiToolbar-root {
+    justify-content: space-between;
+}
+
+.MuiButton-root {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.MuiSvgIcon-root {
+    font-size: 1.5rem;
+}
+
+.MuiMenuItem-root:hover {
+    background-color: #145DA0;
+    color: white;
+}
+
+/* Content Styles */
+.content {
+    padding: 40px 20px;
+}
+
+.MuiCard-root {
+    background-color: #f7f8fa;
+    border-radius: 12px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.MuiCard-root:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.MuiTypography-h6 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #2E8BC0;
+}
+
+.MuiCardContent-root {
+    padding: 20px;
+}
+
+.MuiTypography-body2 {
+    color: #555;
+    font-size: 0.9rem;
+}
