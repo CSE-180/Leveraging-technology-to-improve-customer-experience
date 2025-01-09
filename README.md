@@ -1,4 +1,4 @@
-#Leveraging-technology-to-improve-customer-experience
+Leveraging-technology-to-improve-customer-experience
 The platform begins with a Home Page featuring options to log in or register. Upon successful
 registration, user credentials are securely stored in a database, ensuring data privacy and accessibility.
 After logging in, users are directed to an intuitive Dashboard showcasing four primary insurance
